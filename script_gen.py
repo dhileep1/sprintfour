@@ -28,7 +28,8 @@ def generate_script(idea: str, tone: str, style: str, duration_seconds: int) -> 
         "meta": {{
             "title": "Viral Video Title",
             "description": "SEO optimized description",
-            "full_narration": "THE ENTIRE SCRIPT TEXT IN ONE CONTINUOUS STRING"
+            "full_narration": "THE ENTIRE SCRIPT TEXT IN ONE CONTINUOUS STRING",
+            "bgm_mood": "Pick ONE exactly from: funny, happy, inspirational, sad"
         }},
         "scenes": [
             {{
