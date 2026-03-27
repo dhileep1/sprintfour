@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+
+# Environments
+.env
+
+# Large Assets/Models
+stable-diffusion-webui/
+*.safetensors
+*.pt
+
+# Project specific outputs
+# output/
+# *.mp4
+# *.srt
+# *.mp3
+# *.jpg
+# *.png
+
+# OS
+.DS_Store
+Thumbs.db
